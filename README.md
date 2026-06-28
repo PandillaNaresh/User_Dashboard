@@ -79,8 +79,66 @@ src/
 ├── index.css                → all the CSS styles
 └── main.jsx                 → entry point
 ```
+### Implemented Functionalities
+## User Management
+Display all users
+Add new user
+Edit user details
+Delete user
 
----
+## Search
+Search is performed in real time using:
+
+First Name
+Last Name
+Email
+Department
+
+## Filter
+Users can be filtered using:
+
+First Name
+Last Name
+Email
+
+## Department
+Sorting
+Sorting is available for:
+
+First Name
+Last Name
+Email
+Department
+Both Ascending and Descending order are supported.
+
+## Pagination
+Available page sizes:
+
+10
+25
+50
+100
+
+## Form Validation
+The application validates:
+
+First Name
+Last Name
+Email format
+Department
+Unique Email
+
+## Local Storage
+User data is stored in Local Storage.
+
+Whenever a user is:
+
+Added
+Updated
+Deleted
+the Local Storage is updated automatically.
+
+On application startup, data is loaded from Local Storage if available.
 
 ## Data Mapping Notes
 
