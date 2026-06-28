@@ -177,7 +177,6 @@ const department = departments[user.id % departments.length];
 
 ## Author
 # Pandilla Naresh
-
 B.Tech - Computer Science Engineering 
 
 Nalla Malla Reddy College of Engineering
