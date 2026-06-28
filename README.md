@@ -23,8 +23,8 @@ A simple React web app that lets you view, add, edit, delete, search, filter, an
 - **React.js** — for building the UI
 - **Vite** — for running the project fast
 - **Axios** — for making API requests
-- **Lucide React** — for icons
-- **Vanilla CSS** — for styling
+- **React** — for icons
+- **CSS** — for styling
 
 ---
 
@@ -176,7 +176,7 @@ const department = departments[user.id % departments.length];
 - Role-based access (admin vs viewer)
 
 ## Author
-# Boosi Naresh
+# Pandilla Naresh
 
 B.Tech - Computer Science Engineering 
 
