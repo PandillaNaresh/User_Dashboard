@@ -174,3 +174,12 @@ const department = departments[user.id % departments.length];
 - Add login/signup with authentication
 - Export users list to CSV file
 - Role-based access (admin vs viewer)
+
+## Author
+# Boosi Naresh
+
+B.Tech - Computer Science Engineering 
+
+Nalla Malla Reddy College of Engineering
+
+Email: nareshpandhilla@gmail.com
